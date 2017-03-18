@@ -1,0 +1,41 @@
+[{
+  "id":1,"text":"Clusters","children":[
+    {"id":2,"text":"Cluster length"},
+    {"id":3,"text":"Cluster size"}
+  ]
+  },
+  {
+    "id":4,"text":"Databases","children":[
+      {"id":5,"text":"Database selection"}
+    ]
+
+  },
+  {
+    "id":6,"text":"From selection","children":[
+      {"id":7,"text":"Extract"},
+      {"id":8,"text":"Reachable network"},
+      {"id":9,"text":"Shortest path"}
+
+    ]
+  },
+  {
+
+      "id":10,"text":"Motifs","children":[
+        {"id":11,"text":"DOR"},
+        {"id":12,"text":"Extract network from names"},
+        {"id":13,"text":"SIM-like"},
+        {"id":14,"text":"Numeric"}
+
+      ]
+  },
+  {
+    "id":15,"text":"Computation result","children":[
+      {"id":16,"text":"PValue/Similarity/Energy"},
+      {"id":17,"text":"PValue/Similarity/Energy"},
+      {"id":18,"text":"Positions"},
+      {"id":19,"text":"Interaction Position"}
+    ]
+
+  }
+
+]
