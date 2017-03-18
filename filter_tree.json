@@ -4,7 +4,7 @@
     {"id":3,"text":"Cluster size"}
   ],
   "id":4,"text":"Databases","children":[
-    {"id":5,"text":"Database selection"},
+    {"id":5,"text":"Database selection"}
   ],
   "id":6,"text":"From selection","children":[
     {"id":7,"text":"Extract"},
@@ -16,7 +16,7 @@
     {"id":11,"text":"DOR"},
     {"id":12,"text":"Extract network from names"},
     {"id":13,"text":"SIM-like"},
-    {"id":14,"text":"Numeric"},
+    {"id":14,"text":"Numeric"}
 
   ],
   "id":15,"text":"Computation result","children":[
